@@ -15,15 +15,8 @@ function MessageCard({ isActive }) {
 
   const message = `[  Happy Birthday 
                           To my world
-You're not just someone special-you're a blessing, a reason for my smiles, and a piece of sunshine that lights up every heart you touch. You bring joy in the smallest moments and makes everyone feel loved without even trying.],
-
-Your personalized birthday message goes here.
-
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+You're not just someone special-you're a blessing, a reason for my smiles, and a piece of sunshine that lights up every heart you touch. You bring joy in the smallest moments and makes everyone feel loved without even trying.], I'm so greatful for every bit of your heart, your, your warmth and the way you make life more beautiful just by being in it 
+May this new year of your life be filed with laughter that never ends, love that never fades, and dreams that always come true. keep being that rare soul, kind, fearless, glowing. You deserve every little and huge happiness that universe can give 
 
 Happy Birthday! 🎉
 
