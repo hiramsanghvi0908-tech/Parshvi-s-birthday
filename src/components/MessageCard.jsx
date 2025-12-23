@@ -13,7 +13,9 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[  Happy Birthday 
+                          To my world
+You're not just someone special-you're a blessing, a reason for my smiles, and a piece of sunshine that lights up every heart you touch. You bring joy in the smallest moments and makes everyone feel loved without even trying.],
 
 Your personalized birthday message goes here.
 
@@ -25,7 +27,7 @@ so feel free to customize it completely to fit your style.
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [PARSHVI]`;
 
   // Handle page transitions
   useEffect(() => {
